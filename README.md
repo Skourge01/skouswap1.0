@@ -6,7 +6,11 @@ Recursos
     - Configuração e gerenciamento automático do swap.
     - Scripts otimizados para ajustar parâmetros do sistema.
     - Fácil integração com distribuições Linux.
- 
+
+ `obs: clone o repositorio  em:`
+```
+gitclone https://github.com/Skourge01/skouswap1.0
+```
 - - - 
 #### Socials 
 https://www.reddit.com/user/Vast-Echo805/
