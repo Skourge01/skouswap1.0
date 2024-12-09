@@ -1,6 +1,6 @@
 # skouswap1.0
 
-- kouSwap 1.0 é uma ferramenta personalizada desenvolvida para gerenciar e otimizar o uso de memória swap em sistemas Linux. Este projeto foi criado com foco em desempenho e eficiência, fornecendo scripts e configurações que melhoram a experiência do usuário em ambientes com alta carga de memória.
+- skouSwap 1.0 é uma ferramenta personalizada desenvolvida para gerenciar e otimizar o uso de memória swap em sistemas Linux. Este projeto foi criado com foco em desempenho e eficiência, fornecendo scripts e configurações que melhoram a experiência do usuário em ambientes com alta carga de memória.
 Recursos
 
     - Configuração e gerenciamento automático do swap.
